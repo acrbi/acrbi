@@ -24,13 +24,13 @@ Especialista Senior en Infraestructura TI con más de 20 años de experiencia di
 
 1. **Automatización de Infraestructura e Integraciones (DevOps & IaC):**
    * Creación de playbooks en **Ansible** para despliegues masivos y estandarizados.
-   * Automatización de procesos corporativos complejos y APIs mediante **n8n**[cite: 1, 2].
+   * Automatización de procesos corporativos complejos y APIs mediante **n8n**.
 2. **Scripting y Procesamiento de Datos (Python / Perl):**
    * Desarrollo de scripts robustos para web scraping, automatización de tareas operativas y gestión de logs en entornos Linux.
 3. **High-Performance Computing (HPC) y Storage:**
-   * Arquitectura, optimización y administración de clústeres de alto rendimiento y sistemas de archivos paralelos (BeeGFS, Ceph, InfiniBand)[cite: 1, 2].
+   * Arquitectura, optimización y administración de clústeres de alto rendimiento y sistemas de archivos paralelos (BeeGFS, Ceph, InfiniBand, SLURM, Warewulf).
 4. **Virtualización y Cloud Privado:**
-   * Despliegue y alta disponibilidad en VMware vSphere, Proxmox VE y arquitecturas hiperconvergentes[cite: 1, 2].
+   * Despliegue y alta disponibilidad en VMware vSphere, Proxmox VE y arquitecturas hiperconvergentes[Para soluciones CI e HCI].
 
 ---
 
@@ -46,9 +46,9 @@ Aquí puedes revisar muestras seleccionadas de código limpio, automatizaciones 
 
 ### 📊 Credenciales y Certificaciones Clave
 
-* **HPC & Storage:** BeeGFS Certified Engineer (ThinkParQ) | InfiniBand Professional & Base Command Manager (NVIDIA)[cite: 1, 2].
-* **Cloud & Virtualization:** Broadcom VMware Cloud Foundation Certified Expert (Pre-Sales) | Proxmox VE & Ceph[cite: 1, 2].
-* **Automation & AI:** N8n Academy Advanced Workflows | AI Factory Strategist (Tribucorp) | Anthropic Claude Ecosystem[cite: 1, 2].
+* **HPC & Storage:** BeeGFS Certified Engineer (ThinkParQ) | InfiniBand Professional & Base Command Manager (NVIDIA)
+* **Cloud & Virtualization:** Broadcom VMware Cloud Foundation Certified Expert (Pre-Sales) | Proxmox VE & Ceph.
+* **Automation & AI:** N8n Academy Advanced Workflows | AI Factory Strategist (Tribucorp) | Anthropic Claude Ecosystem
 
 ---
 *¿Tienes un desafío técnico complejo o necesitas escalar tu infraestructura? Contáctame directamente a través de **fachr74@gmail.com** o por mensaje directo en LinkedIn.*
