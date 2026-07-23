@@ -38,7 +38,7 @@ Especialista Senior en Infraestructura TI con más de 20 años de experiencia di
 
 Aquí puedes revisar muestras seleccionadas de código limpio, automatizaciones y scripts orientados a producción:
 
-* **[automation-n8n-workflows]([https://github.com/acrbi](https://github.com/acrbi/automation-n8n-workflows))**: Blueprints y configuraciones de flujos automatizados integrando servicios en la nube, APIs y lógica de procesamiento con IA.
+* **[automation-n8n-workflows](https://github.com/acrbi/automation-n8n-workflows)**: Blueprints y configuraciones de flujos automatizados integrando servicios en la nube, APIs y lógica de procesamiento con IA.
 * **[linux-ops-python-scripts](https://github.com/acrbi)**: Scripts en Python y Perl orientados a la administración de sistemas, monitoreo de infraestructura y extracción automatizada de datos.
 * **[ansible-infra-playbooks](https://github.com/acrbi)**: Estructuras de infraestructura como código (IaC) para el aprovisionamiento rápido y seguro de servidores y redes.
 
