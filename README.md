@@ -3,7 +3,7 @@
 ### 🚀 Senior IT Infrastructure & Automation Specialist | HPC, Linux & AI-Driven Operations
 Especialista Senior en Infraestructura TI con más de 20 años de experiencia diseñando, automatizando y asegurando entornos de misión crítica (HPC, Linux Red Hat, Storage Empresarial y Virtualización)[cite: 1, 2]. Actualmente integro la infraestructura tradicional con flujos de trabajo inteligentes mediante **Ansible, n8n e Inteligencia Artificial**.
 
-📍 **Lima, Perú** | 💼 [LinkedIn Profile]([https://www.linkedin.com/in/arturo-chia-reynaga-5b1a011a/]) | 📧 fachr74@gmail.com
+📍 **Lima, Perú** | 💼 [LinkedIn Profile](https://www.linkedin.com/in/arturo-chia-reynaga-5b1a011a/) | 📧 fachr74@gmail.com
 
 ---
 
