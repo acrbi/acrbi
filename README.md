@@ -11,7 +11,7 @@ Especialista Senior en Infraestructura TI con más de 20 años de experiencia di
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-RedHat/Rocky%20%20Debian/Ubuntu%20%20SuSe-red?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HPC-BeeGFS%20%2F%20InfiniBand-blue?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/HPC-BeeGFS%20%2F%20InfiniBand%20%2F%20SLURM%20%2F%20Warewulf-blue?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-Ansible%20%2F%20n8n-orange?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtualization-VMware%20%2F%20Proxmox-blueviolet?style=flat-square&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/Scripting-Python%20%2F%20Perl-yellow?style=flat-square&logo=python&logoColor=white" />
